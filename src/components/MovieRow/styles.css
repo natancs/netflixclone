@@ -11,6 +11,10 @@
   padding-left: 30px;
 }
 
+.movieRow--list {
+  transition: all ease 0.5s;
+}
+
 .movieRow--item {
   display: inline-block;
   width: 150px;
