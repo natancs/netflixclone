@@ -72,9 +72,7 @@ export default {
   },
 
   getMovieInfo: async (movieId, type) => {
-    let info = {
-
-    }
+    let info = { }
 
     if (movieId) {
       switch (type) {
