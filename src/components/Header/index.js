@@ -9,7 +9,7 @@ function Header({ black }) {
     >
       <div className="header--logo">
         <a href="/">
-          <img src="../../../public/img/netflix-logo.png" alt="Netflix"/>
+          <img src="https://1000logos.net/wp-content/uploads/2017/05/Netflix-Logo.png" alt="Netflix"/>
         </a>
       </div>
       <div className="header--user">
